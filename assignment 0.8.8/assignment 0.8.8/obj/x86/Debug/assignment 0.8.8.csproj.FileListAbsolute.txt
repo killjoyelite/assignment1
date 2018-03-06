@@ -1,0 +1,4 @@
+c:\users\smile\documents\visual studio 2010\Projects\assignment 0.8.8\assignment 0.8.8\bin\Debug\assignment 0.8.8.exe
+c:\users\smile\documents\visual studio 2010\Projects\assignment 0.8.8\assignment 0.8.8\bin\Debug\assignment 0.8.8.pdb
+c:\users\smile\documents\visual studio 2010\Projects\assignment 0.8.8\assignment 0.8.8\obj\x86\Debug\assignment 0.8.8.exe
+c:\users\smile\documents\visual studio 2010\Projects\assignment 0.8.8\assignment 0.8.8\obj\x86\Debug\assignment 0.8.8.pdb
